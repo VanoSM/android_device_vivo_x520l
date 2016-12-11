@@ -1,0 +1,2 @@
+add_lunch_combo omni_x520l-userdebug
+add_lunch_combo omni_x520l-eng
